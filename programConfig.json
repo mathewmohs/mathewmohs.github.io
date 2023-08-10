@@ -1,0 +1,468 @@
+{
+	"SLS.APL.______.EN.VCE.ALL": {
+		"programID": "8500011300",
+		"timeZone": "America/Chicago",
+		"whisper": "https://studio-flow-assets-7141.twil.io/whi.sls.apl.defaul.en.mp3",
+		"queue": "SLS.APL.______.EN.VCE.ALL",
+		"callbackEnabled": false,
+		"callbackThreshold": 300,
+		"tapering": 30,
+		"hoops": {
+			"0": {
+				"open": 800,
+				"close": 2100
+			},
+			"1": {
+				"open": 800,
+				"close": 2100
+			},
+			"2": {
+				"open": 800,
+				"close": 2100
+			},
+			"3": {
+				"open": 800,
+				"close": 2100
+			},
+			"4": {
+				"open": 800,
+				"close": 2100
+			},
+			"5": {
+				"open": 800,
+				"close": 2100
+			},
+			"6": {
+				"open": 800,
+				"close": 2100
+			}
+		},
+		"isEmergency": false,
+		"emergencyType": "none",
+		"emergencyMsg": "We are temporarily unavailable due to an emergency closure. Please call back at a later time.",
+		"adhoc": false,
+		"adhocMsg": "We are unable to provide product availability information over the telephone. Please visit a near by store.",
+		"exceptions": {
+			"7-6-2023": [
+				{
+					"start": 1100,
+					"end": 1200,
+					"status": "closed",
+					"exceptionMsg": "We're closed."
+				}
+			]
+		},
+		"manual": {
+			"status": "normal",
+			"message": "none"
+		}
+	},
+	"SLS.HOT.______.EN.VCE.ALL": {
+		"programID": "8500011301",
+		"timeZone": "America/Chicago",
+		"whisper": "https://studio-flow-assets-7141.twil.io/whi.sls.hot.defaul.en.mp3",
+		"queue": "SLS.HOT.______.EN.VCE.ALL",
+		"callbackEnabled": false,
+		"callbackThreshold": 300,
+		"tapering": 30,
+		"hoops": {
+			"0": {
+				"open": 800,
+				"close": 2100
+			},
+			"1": {
+				"open": 800,
+				"close": 2100
+			},
+			"2": {
+				"open": 800,
+				"close": 2100
+			},
+			"3": {
+				"open": 800,
+				"close": 2100
+			},
+			"4": {
+				"open": 800,
+				"close": 2100
+			},
+			"5": {
+				"open": 800,
+				"close": 2100
+			},
+			"6": {
+				"open": 800,
+				"close": 2100
+			}
+		},
+		"isEmergency": false,
+		"emergencyType": "none",
+		"emergencyMsg": "We are temporarily unavailable due to an emergency closure. Please call back at a later time.",
+		"adhoc": false,
+		"adhocMsg": "We are unable to provide product availability information over the telephone. Please visit a near by store.",
+		"exceptions": {
+			"7-6-2023": [
+				{
+					"start": 1100,
+					"end": 1200,
+					"status": "closed",
+					"exceptionMsg": "We're closed."
+				}
+			]
+		},
+		"manual": {
+			"status": "normal",
+			"message": "none"
+		}
+	},
+	"SLS.CPU.______.EN.VCE.ALL": {
+		"programID": "8500011302",
+		"timeZone": "America/Chicago",
+		"whisper": "https://studio-flow-assets-7141.twil.io/whi.sls.cpu.defaul.en.mp3",
+		"queue": "SLS.CPU.______.EN.VCE.ALL",
+		"callbackEnabled": false,
+		"callbackThreshold": 300,
+		"tapering": 30,
+		"hoops": {
+			"0": {
+				"open": 800,
+				"close": 2100
+			},
+			"1": {
+				"open": 800,
+				"close": 2100
+			},
+			"2": {
+				"open": 800,
+				"close": 2100
+			},
+			"3": {
+				"open": 800,
+				"close": 2100
+			},
+			"4": {
+				"open": 800,
+				"close": 2100
+			},
+			"5": {
+				"open": 800,
+				"close": 2100
+			},
+			"6": {
+				"open": 800,
+				"close": 2100
+			}
+		},
+		"isEmergency": false,
+		"emergencyType": "none",
+		"emergencyMsg": "We are temporarily unavailable due to an emergency closure. Please call back at a later time.",
+		"adhoc": false,
+		"adhocMsg": "We are unable to provide product availability information over the telephone. Please visit a near by store.",
+		"exceptions": {
+			"7-6-2023": [
+				{
+					"start": 1100,
+					"end": 1200,
+					"status": "closed",
+					"exceptionMsg": "We're closed."
+				}
+			]
+		},
+		"manual": {
+			"status": "normal",
+			"message": "none"
+		}
+	},
+	"SLS.MOB.______.EN.VCE.ALL": {
+		"programID": "8500011303",
+		"timeZone": "America/Chicago",
+		"whisper": "https://studio-flow-assets-7141.twil.io/whi.sls.mob.defaul.en.mp3",
+		"queue": "SLS.MOB.______.EN.VCE.ALL",
+		"callbackEnabled": false,
+		"callbackThreshold": 300,
+		"tapering": 30,
+		"hoops": {
+			"0": {
+				"open": 800,
+				"close": 2100
+			},
+			"1": {
+				"open": 800,
+				"close": 2100
+			},
+			"2": {
+				"open": 800,
+				"close": 2100
+			},
+			"3": {
+				"open": 800,
+				"close": 2100
+			},
+			"4": {
+				"open": 800,
+				"close": 2100
+			},
+			"5": {
+				"open": 800,
+				"close": 2100
+			},
+			"6": {
+				"open": 800,
+				"close": 2100
+			}
+		},
+		"isEmergency": false,
+		"emergencyType": "none",
+		"emergencyMsg": "We are temporarily unavailable due to an emergency closure. Please call back at a later time.",
+		"adhoc": false,
+		"adhocMsg": "We are unable to provide product availability information over the telephone. Please visit a near by store.",
+		"exceptions": {
+			"7-6-2023": [
+				{
+					"start": 1100,
+					"end": 1200,
+					"status": "closed",
+					"exceptionMsg": "We're closed."
+				}
+			]
+		},
+		"manual": {
+			"status": "normal",
+			"message": "none"
+		}
+	},
+	"SLS.PMY.______.EN.VCE.ALL": {
+		"programID": "8500011304",
+		"timeZone": "America/Chicago",
+		"whisper": "https://studio-flow-assets-7141.twil.io/whi.sls.pmy.defaul.en.mp3",
+		"queue": "SLS.PMY.______.EN.VCE.ALL",
+		"callbackEnabled": false,
+		"callbackThreshold": 300,
+		"tapering": 30,
+		"hoops": {
+			"0": {
+				"open": 800,
+				"close": 2100
+			},
+			"1": {
+				"open": 800,
+				"close": 2100
+			},
+			"2": {
+				"open": 800,
+				"close": 2100
+			},
+			"3": {
+				"open": 800,
+				"close": 2100
+			},
+			"4": {
+				"open": 800,
+				"close": 2100
+			},
+			"5": {
+				"open": 800,
+				"close": 2100
+			},
+			"6": {
+				"open": 800,
+				"close": 2100
+			}
+		},
+		"isEmergency": false,
+		"emergencyType": "none",
+		"emergencyMsg": "We are temporarily unavailable due to an emergency closure. Please call back at a later time.",
+		"adhoc": false,
+		"adhocMsg": "We are unable to provide product availability information over the telephone. Please visit a near by store.",
+		"exceptions": {
+			"7-6-2023": [
+				{
+					"start": 1100,
+					"end": 1200,
+					"status": "closed",
+					"exceptionMsg": "We're closed."
+				}
+			]
+		},
+		"manual": {
+			"status": "normal",
+			"message": "none"
+		}
+	},
+	"SLS.FIT.______.EN.VCE.ALL": {
+		"programID": "8500011305",
+		"timeZone": "America/Chicago",
+		"whisper": "https://studio-flow-assets-7141.twil.io/whi.sls.apl.defaul.en.mp3",
+		"queue": "SLS.FIT.______.EN.VCE.ALL",
+		"callbackEnabled": false,
+		"callbackThreshold": 300,
+		"tapering": 30,
+		"hoops": {
+			"0": {
+				"open": 800,
+				"close": 2100
+			},
+			"1": {
+				"open": 800,
+				"close": 2100
+			},
+			"2": {
+				"open": 800,
+				"close": 2100
+			},
+			"3": {
+				"open": 800,
+				"close": 2100
+			},
+			"4": {
+				"open": 800,
+				"close": 2100
+			},
+			"5": {
+				"open": 800,
+				"close": 2100
+			},
+			"6": {
+				"open": 800,
+				"close": 2100
+			}
+		},
+		"isEmergency": false,
+		"emergencyType": "none",
+		"emergencyMsg": "We are temporarily unavailable due to an emergency closure. Please call back at a later time.",
+		"adhoc": false,
+		"adhocMsg": "We are unable to provide product availability information over the telephone. Please visit a near by store.",
+		"exceptions": {
+			"7-6-2023": [
+				{
+					"start": 1100,
+					"end": 1200,
+					"status": "closed",
+					"exceptionMsg": "We're closed."
+				}
+			]
+		},
+		"manual": {
+			"status": "normal",
+			"message": "none"
+		}
+	},
+	"SLS.TST_IPT.EN.VCE.ALL": {
+		"programID": "8500011152",
+		"timeZone": "America/Chicago",
+		"whisper": "https://studio-flow-assets-9167.twil.io/whi.sls.apl.defaul.en.mp3",
+		"queue": "SLS.TST_IPT.EN.VCE.ALL",
+		"callbackEnabled": false,
+		"callbackThreshold": 400,
+		"tapering": 30,
+		"hoops": {
+			"0": {
+				"open": 0,
+				"close": 2359
+			},
+			"1": {
+				"open": 0,
+				"close": 2359
+			},
+			"2": {
+				"open": 0,
+				"close": 2359
+			},
+			"3": {
+				"open": 0,
+				"close": 2359
+			},
+			"4": {
+				"open": 0,
+				"close": 2359
+			},
+			"5": {
+				"open": 0,
+				"close": 2359
+			},
+			"6": {
+				"open": 0,
+				"close": 2359
+			}
+		},
+		"isEmergency": false,
+		"emergencyType": "none",
+		"emergencyMsg": "We are temporarily unavailable due to an emergency closure.  Please call back at a later time.",
+		"adhoc": false,
+		"adhocMsg": "We are unable to provide product availability information over the telephone. Please visit a near by store.",
+		"exceptions": {
+			"7-6-2023": [
+				{
+					"start": 1100,
+					"end": 1200,
+					"status": "closed",
+					"exceptionMsg": "We're closed."
+				}
+			]
+		},
+
+		"manual": {
+			"status": "normal",
+			"message": "none"
+		}
+	},
+	"SLS.TST.CCAPPS.EN.VCE.ALL": {
+		"programID": "8500011151",
+		"timeZone": "America/Chicago",
+		"whisper": "https://studio-flow-assets-7141.twil.io/whi.sls.pmy.defaul.en.mp3",
+		"queue": "SLS.TST.CCAPPS.EN.VCE.ALL",
+		"callbackEnabled": false,
+		"callbackThreshold": 400,
+		"tapering": 30,
+		"hoops": {
+			"0": {
+				"open": 0,
+				"close": 2359
+			},
+			"1": {
+				"open": 0,
+				"close": 2359
+			},
+			"2": {
+				"open": 0,
+				"close": 2359
+			},
+			"3": {
+				"open": 0,
+				"close": 2359
+			},
+			"4": {
+				"open": 0,
+				"close": 2359
+			},
+			"5": {
+				"open": 0,
+				"close": 2359
+			},
+			"6": {
+				"open": 0,
+				"close": 2359
+			}
+		},
+		"isEmergency": false,
+		"emergencyType": "none",
+		"emergencyMsg": "We are temporarily unavailable due to an emergency closure.  Please call back at a later time.",
+		"adhoc": false,
+		"adhocMsg": "We are unable to provide product availability information over the telephone. Please visit a near by store.",
+		"exceptions": {
+			"7-6-2023": [
+				{
+					"start": 1100,
+					"end": 1200,
+					"status": "closed",
+					"exceptionMsg": "We're closed."
+				}
+			]
+		},
+
+		"manual": {
+			"status": "normal",
+			"message": "none"
+		}
+	}
+}
