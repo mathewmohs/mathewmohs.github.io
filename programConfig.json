@@ -457,6 +457,14 @@
 					"status": "closed",
 					"exceptionMsg": "We're closed."
 				}
+			],
+			"8-10-2023": [
+				{
+					"start": 1100,
+					"end": 1200,
+					"status": "closed",
+					"exceptionMsg": "We're closed for a party."
+				}
 			]
 		},
 
